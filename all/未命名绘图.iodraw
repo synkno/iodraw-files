@@ -19,7 +19,7 @@
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-4" value="&lt;div&gt;返回 uid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="150" width="160" height="70" as="geometry" />
+          <mxGeometry x="500" y="150" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="6RFhPZgqOHVz2kv59ERZ-8" target="6RFhPZgqOHVz2kv59ERZ-9">
           <mxGeometry relative="1" as="geometry" />
