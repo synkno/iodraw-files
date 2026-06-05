@@ -24,6 +24,9 @@
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-4" value="&lt;div&gt;返回 uid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6RFhPZgqOHVz2kv59ERZ-8" value="uid 有值 和 服务器不对，说明重置了&lt;div&gt;否则正常流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
