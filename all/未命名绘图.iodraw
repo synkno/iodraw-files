@@ -7,8 +7,11 @@
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-1" value="Install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6RFhPZgqOHVz2kv59ERZ-2" value="Install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6RFhPZgqOHVz2kv59ERZ-2" value="Check kiosk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6RFhPZgqOHVz2kv59ERZ-3" value="Check kiosk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
