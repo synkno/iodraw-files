@@ -37,8 +37,8 @@
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-19" value="Player 端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6RFhPZgqOHVz2kv59ERZ-20" value="Player 端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="6RFhPZgqOHVz2kv59ERZ-20" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
