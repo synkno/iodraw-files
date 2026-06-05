@@ -49,9 +49,6 @@
         <mxCell id="6RFhPZgqOHVz2kv59ERZ-20" value="服务端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6RFhPZgqOHVz2kv59ERZ-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="515" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
