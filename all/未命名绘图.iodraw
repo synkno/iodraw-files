@@ -4,14 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PrvD1TKmtYskvETlbube-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PrvD1TKmtYskvETlbube-1" target="PrvD1TKmtYskvETlbube-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PrvD1TKmtYskvETlbube-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PrvD1TKmtYskvETlbube-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122.5" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PrvD1TKmtYskvETlbube-1" value="文档和解决方案查询的agent系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-110" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PrvD1TKmtYskvETlbube-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
