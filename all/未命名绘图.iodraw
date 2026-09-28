@@ -22,7 +22,7 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-6" value="韵律预测器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
