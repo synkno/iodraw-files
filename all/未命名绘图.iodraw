@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-10" value="声码器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="570" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-12" value="波形&lt;div&gt;48600 个采样点=2.025秒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="790" width="120" height="60" as="geometry" />
