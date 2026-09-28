@@ -55,8 +55,8 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-16" value="音色后128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-18" value="音色后128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="NjearR4ugIdMPHEleFCU-18" value="音色前128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
