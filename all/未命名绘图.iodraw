@@ -10,7 +10,7 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-1" value="音素串:&lt;div&gt;&quot;ㄋㄧ2ㄏㄠ3, ㄕ十4ㄐㄝ4.&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-2" value="ids[17]" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
