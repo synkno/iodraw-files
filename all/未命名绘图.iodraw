@@ -41,10 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-10" value="声码器 iSTFTNet: F0 -&amp;gt;&amp;nbsp;波激励；上采样 ×60；iSTFT" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-224.5" y="570" width="349" height="50" as="geometry" />
+          <mxGeometry x="-224.5" y="540" width="349" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-12" value="波形&lt;div&gt;48600 个采样点=2.025秒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-14" target="NjearR4ugIdMPHEleFCU-19">
           <mxGeometry relative="1" as="geometry" />
