@@ -28,8 +28,14 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-6" value="韵律预测器&lt;div&gt;时长: 每个音素持续几秒&lt;/div&gt;&lt;div&gt;F0 音高 + 能量曲线&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-8" target="NjearR4ugIdMPHEleFCU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-8" value="解码器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-10" value="声码器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
