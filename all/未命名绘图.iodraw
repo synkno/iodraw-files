@@ -22,7 +22,7 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-4" target="NjearR4ugIdMPHEleFCU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-110" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-6" target="NjearR4ugIdMPHEleFCU-8">
