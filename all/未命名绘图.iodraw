@@ -49,6 +49,9 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-14" value="文本编码器&lt;div&gt;(发什么音) 512x17&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
