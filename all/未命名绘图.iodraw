@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文&lt;div&gt;Embeding:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[128x17]&lt;/div&gt;&lt;div&gt;Linear :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;Transformer :&amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;bert_encoder:&amp;nbsp; &amp;nbsp;[512x17]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacing=20;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="110" width="280" height="100" as="geometry" />
+          <mxGeometry x="-160" y="110" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-6" target="NjearR4ugIdMPHEleFCU-8">
           <mxGeometry relative="1" as="geometry" />
