@@ -46,6 +46,9 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-12" value="波形&lt;div&gt;48600 个采样点=2.025秒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-14" target="NjearR4ugIdMPHEleFCU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-14" value="文本编码器&lt;div&gt;(发什么音) 512x17&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -55,8 +58,14 @@
         <mxCell id="NjearR4ugIdMPHEleFCU-16" value="音色后128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-18" target="NjearR4ugIdMPHEleFCU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-18" value="音色前128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-19" target="NjearR4ugIdMPHEleFCU-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-19" value="按帧数展开&lt;div&gt;512 x 81 帧&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
