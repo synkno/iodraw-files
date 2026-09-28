@@ -74,7 +74,10 @@
           <mxGeometry x="-50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NjearR4ugIdMPHEleFCU-24" value="bert_encoder&lt;div&gt;[512x17]&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="53" y="110" width="117" height="60" as="geometry" />
+          <mxGeometry x="83" y="120" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NjearR4ugIdMPHEleFCU-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
