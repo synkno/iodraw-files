@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-13" value="hidden" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="60" height="60" as="geometry" />
+          <mxGeometry x="170" y="130" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-15" target="ksTOWd3DE9CxqDiosbJT-30">
           <mxGeometry relative="1" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-17" value="sdp&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;Stochastic Duration&lt;br&gt;Predictor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="140" height="80" as="geometry" />
+          <mxGeometry x="380" y="50" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;curved=1;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-18" target="ksTOWd3DE9CxqDiosbJT-27">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-19" value="g&lt;br&gt;&lt;div&gt;说话人&lt;/div&gt;&lt;div&gt;嵌入&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="60" height="62.5" as="geometry" />
+          <mxGeometry x="170" y="30" width="60" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-27" target="ksTOWd3DE9CxqDiosbJT-57">
           <mxGeometry relative="1" as="geometry" />
