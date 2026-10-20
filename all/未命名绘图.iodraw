@@ -51,10 +51,10 @@
           <mxGeometry x="200" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-15" value="m_p" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-16" value="logs_p" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-17" value="sdp&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;Stochastic Duration&lt;br&gt;Predictor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="130" width="140" height="80" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry x="420" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-19" value="g&lt;br&gt;&lt;div&gt;说话人&lt;/div&gt;&lt;div&gt;嵌入&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="33.75" width="60" height="62.5" as="geometry" />
+          <mxGeometry x="280" y="260" width="60" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
