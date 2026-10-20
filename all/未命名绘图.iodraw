@@ -56,7 +56,7 @@
         <mxCell id="ksTOWd3DE9CxqDiosbJT-16" value="logs_p" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ksTOWd3DE9CxqDiosbJT-17" value="sdp&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;StochasticDurationPredictor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ksTOWd3DE9CxqDiosbJT-17" value="sdp&lt;div&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;Stochastic Duration&lt;br&gt;Predictor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="130" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
