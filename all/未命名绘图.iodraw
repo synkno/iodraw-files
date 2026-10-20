@@ -102,11 +102,6 @@
         <mxCell id="ksTOWd3DE9CxqDiosbJT-19" value="g&lt;br&gt;&lt;div&gt;说话人&lt;/div&gt;&lt;div&gt;嵌入&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" width="60" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="ksTOWd3DE9CxqDiosbJT-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-27" value="atten" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="570" y="270" width="60" height="60" as="geometry" />
         </mxCell>
@@ -209,9 +204,6 @@
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-68" value="&lt;div style=&quot;color: rgb(59, 59, 59); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Multi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(59, 59, 59); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Period&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(59, 59, 59); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #267f99;&quot;&gt;Discriminator&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1410" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ksTOWd3DE9CxqDiosbJT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-16" target="ksTOWd3DE9CxqDiosbJT-30">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-16" value="logs_p" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="60" height="60" as="geometry" />
