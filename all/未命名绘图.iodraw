@@ -133,6 +133,9 @@
         <mxCell id="ksTOWd3DE9CxqDiosbJT-41" value="wav" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1150" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ksTOWd3DE9CxqDiosbJT-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
