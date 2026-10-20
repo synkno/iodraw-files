@@ -20,7 +20,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;curved=1;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-4" target="ksTOWd3DE9CxqDiosbJT-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="290" />
+              <mxPoint x="140" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-4" value="enc_p&lt;div&gt;TextEncoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="260" width="120" height="60" as="geometry" />
