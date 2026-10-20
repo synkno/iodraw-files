@@ -165,10 +165,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-53" value="atten_hat" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="530" width="60" height="60" as="geometry" />
+          <mxGeometry x="560" y="530" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-57" value="l_length&lt;div&gt;loss&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-60" value="kl&lt;br&gt;&lt;div&gt;loss&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="120" height="80" as="geometry" />
