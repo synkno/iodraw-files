@@ -1,81 +1,81 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PJNQ46GDhamOerJPa3Xg">
-    <mxGraphModel dx="1834" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NjearR4ugIdMPHEleFCU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-1" target="NjearR4ugIdMPHEleFCU-2">
+        <mxCell id="NjearR4ugIdMPHEleFCU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-1" target="NjearR4ugIdMPHEleFCU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-1" value="音素串:&lt;div&gt;&quot;ㄋㄧ2ㄏㄠ3, ㄕ十4ㄐㄝ4.&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=20;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-1" value="音素串:&lt;div&gt;&quot;ㄋㄧ2ㄏㄠ3, ㄕ十4ㄐㄝ4.&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="-152.5" y="-60" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-2" target="NjearR4ugIdMPHEleFCU-4">
+        <mxCell id="NjearR4ugIdMPHEleFCU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-2" target="NjearR4ugIdMPHEleFCU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-2" target="NjearR4ugIdMPHEleFCU-14">
+        <mxCell id="NjearR4ugIdMPHEleFCU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-2" target="NjearR4ugIdMPHEleFCU-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-2" value="ids[17]" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-2" value="ids[17]" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-85" y="40" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-4">
+        <mxCell id="NjearR4ugIdMPHEleFCU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文&lt;div&gt;Embeding:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[128x17]&lt;/div&gt;&lt;div&gt;Linear :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;Transformer :&amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;bert_encoder:&amp;nbsp; &amp;nbsp;[512x17]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacing=20;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-4" value="PL-BERT 理解上下文&lt;div&gt;Embeding:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[128x17]&lt;/div&gt;&lt;div&gt;Linear :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;Transformer :&amp;nbsp; &amp;nbsp; [768x17]&lt;/div&gt;&lt;div&gt;bert_encoder:&amp;nbsp; &amp;nbsp;[512x17]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="-160" y="110" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-6" target="NjearR4ugIdMPHEleFCU-8">
+        <mxCell id="NjearR4ugIdMPHEleFCU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-6" target="NjearR4ugIdMPHEleFCU-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-6" value="韵律预测器&lt;div&gt;(512 + 128) x 17 = 640 x 17&lt;br&gt;&lt;div&gt;&lt;b&gt;时长&lt;/b&gt;: 每个音素持续几秒&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[15 2 3 4 4 4 2 1 3 2 2 4 3 5 19 7 1]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;按帧数展开(对齐) [640x81]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;F0 音高 + 能量曲线 [162]&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacing=20;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-6" value="韵律预测器&lt;div&gt;(512 + 128) x 17 = 640 x 17&lt;br&gt;&lt;div&gt;&lt;b&gt;时长&lt;/b&gt;: 每个音素持续几秒&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[15 2 3 4 4 4 2 1 3 2 2 4 3 5 19 7 1]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;按帧数展开(对齐) [640x81]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;F0 音高 + 能量曲线 [162]&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="-180" y="250" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-8" target="NjearR4ugIdMPHEleFCU-10">
+        <mxCell id="NjearR4ugIdMPHEleFCU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-8" target="NjearR4ugIdMPHEleFCU-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-8" value="解码器&lt;div&gt;[512x162]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-8" value="解码器&lt;div&gt;[512x162]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-10" target="NjearR4ugIdMPHEleFCU-12">
+        <mxCell id="NjearR4ugIdMPHEleFCU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NjearR4ugIdMPHEleFCU-10" target="NjearR4ugIdMPHEleFCU-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-10" value="声码器 iSTFTNet: F0 -&amp;gt;&amp;nbsp;波激励；上采样 ×60；iSTFT" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-10" value="声码器 iSTFTNet: F0 -&amp;gt;&amp;nbsp;波激励；上采样 ×60；iSTFT" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-224.5" y="540" width="349" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-12" value="波形&lt;div&gt;48600 个采样点=2.025秒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-12" value="波形&lt;div&gt;48600 个采样点=2.025秒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-14" target="NjearR4ugIdMPHEleFCU-19">
+        <mxCell id="NjearR4ugIdMPHEleFCU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-14" target="NjearR4ugIdMPHEleFCU-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-14" value="文本编码器&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(发什么音)&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[512x17]&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-14" value="文本编码器&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(发什么音)&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[512x17]&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-16" target="NjearR4ugIdMPHEleFCU-6">
+        <mxCell id="NjearR4ugIdMPHEleFCU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-16" target="NjearR4ugIdMPHEleFCU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-16" value="音色后128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-16" value="音色后128维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124.5" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-18" target="NjearR4ugIdMPHEleFCU-8">
+        <mxCell id="NjearR4ugIdMPHEleFCU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-18" target="NjearR4ugIdMPHEleFCU-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-18" value="音色前128维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-18" value="音色前128维" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-19" target="NjearR4ugIdMPHEleFCU-18">
+        <mxCell id="NjearR4ugIdMPHEleFCU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-19" target="NjearR4ugIdMPHEleFCU-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-19" value="按帧数展开&lt;div&gt;[512 x 81 帧]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-19" value="按帧数展开&lt;div&gt;[512 x 81 帧]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="370" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-23" value="Tokenize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NjearR4ugIdMPHEleFCU-23" value="Tokenize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NjearR4ugIdMPHEleFCU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjearR4ugIdMPHEleFCU-4" target="NjearR4ugIdMPHEleFCU-6">
+        <mxCell id="NjearR4ugIdMPHEleFCU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NjearR4ugIdMPHEleFCU-4" target="NjearR4ugIdMPHEleFCU-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-50" y="230" as="sourcePoint" />
           </mxGeometry>
