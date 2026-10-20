@@ -188,7 +188,7 @@
         <mxCell id="ksTOWd3DE9CxqDiosbJT-65" value="Mel&lt;br&gt;&lt;div&gt;loss&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="670" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ksTOWd3DE9CxqDiosbJT-68" value="&lt;div style=&quot;line-height: 18px; white-space: pre;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Multi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px; white-space: pre;&quot;&gt;&lt;font face=&quot;-CSUnnUYQoSzSsXmzIyC&quot;&gt;Period&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px; white-space: pre;&quot;&gt;&lt;font face=&quot;-CSUnnUYQoSzSsXmzIyC&quot;&gt;Discriminator&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ksTOWd3DE9CxqDiosbJT-68" value="&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;MultiPeriodDiscriminator&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ksTOWd3DE9CxqDiosbJT-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ksTOWd3DE9CxqDiosbJT-16" target="ksTOWd3DE9CxqDiosbJT-78">
